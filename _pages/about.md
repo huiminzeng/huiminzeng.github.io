@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, this is Huimin Zeng (曾惠民 in Chinese)! I am currently a 3rd year Ph.D. student at [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by [Prof. Dong Wang](https://www.wangdong.org/). Prior to that, I graduated with M.Sc. degree in Robotics, Cognition, Intelligence with Distinction from Technische Universität München in 2021. I received my B.Sc. in Robotics and Automation from Tongji University in 2018.
+Hello, this is Huimin Zeng (曾惠民 in Chinese)! I am currently a 4th year Ph.D. student at [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by [Prof. Dong Wang](https://www.wangdong.org/). Prior to that, I graduated with M.Sc. degree in Robotics, Cognition, Intelligence with Distinction from Technische Universität München in 2021. I received my B.Sc. in Robotics and Automation from Tongji University in 2018.
 
 My research interest lies in trustworthy machine learning, NLP and recommender systems. 
 
